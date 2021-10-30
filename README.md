@@ -7,7 +7,7 @@ The 3D model of the greenhouse is shown here, it has solar panels to power it us
 
 ![3dmodel](greenhousemodel.PNG?raw=true "3d model")
 
-![Circuit](Smart Green House.png?raw=true "circuit")
+![Circuit](smartgreenhouse.png?raw=true "circuit")
 
 The circuitry of the the greenhouse is shown below. Various sensors used are : 
 - Light dependent resistor 
