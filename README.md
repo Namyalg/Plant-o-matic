@@ -4,7 +4,10 @@ This is the prototype of a Smart Green house that is self-sustainable and utilis
 
 The 3D model of the greenhouse is shown here, it has solar panels to power it using renewable sources of energy and a rain water harvesting system attached.
 
-![3D model](Smart Green House.png?raw=true "3d model")
+
+![3dmodel](greenhousemodel.PNG?raw=true "3d model")
+
+![Circuit](Smart Green House.png?raw=true "circuit")
 
 The circuitry of the the greenhouse is shown below. Various sensors used are : 
 - Light dependent resistor 
@@ -13,4 +16,4 @@ The circuitry of the the greenhouse is shown below. Various sensors used are :
 - Ultrasonic sensor
 - Soil mosisture sensor 
 
-![Circuitry](greenhousemodel.PNG?raw=true "circuit")
+
